@@ -16,7 +16,6 @@ The class is designed to perform basic arithmetic operations, including addition
            <scope>test</scope>
        </dependency>
     </dependencies>
-    ```
 
 ## Test Cases
 The test cases were conducted to verify the correctness of the methods follows:
