@@ -26,4 +26,4 @@ The test cases were conducted to verify the correctness of the methods follows:
 ![Test Results](./images/success.png)
 
 ## ChatGPT
-![ChatGPT](https://chatgpt.com/share/677b587a-9c14-800d-857c-2b9d77ec443e)
+[ChatGPT Link](https://chatgpt.com/share/677b587a-9c14-800d-857c-2b9d77ec443e)
