@@ -4,18 +4,19 @@
 The class is designed to perform basic arithmetic operations, including addition, subtraction, multiplication, and division of integers. The division method is specifically designed to throw an exception when dividing by zero to ensure safe usage.
 
 ## Dependencies
-   - Java Development Kit (JDK) 8 or higher.
-   - JUnit 5.6.0 library.
-   - Add to your `pom.xml` file (if using Maven):
-    ```xml
-    <dependencies>
-       <dependency>
-           <groupId>org.junit.jupiter</groupId>
-           <artifactId>junit-jupiter</artifactId>
-           <version>5.6.0</version>
-           <scope>test</scope>
-       </dependency>
-    </dependencies>
+- Java Development Kit (JDK) 8 or higher.
+- JUnit 5.6.0 library.
+- Add to your `pom.xml` file (if using Maven):
+ ```
+ <dependencies>
+    <dependency>
+        <groupId>org.junit.jupiter</groupId>
+        <artifactId>junit-jupiter</artifactId>
+        <version>5.6.0</version>
+        <scope>test</scope>
+    </dependency>
+ </dependencies>
+ ```
 
 ## Test Cases
 The test cases were conducted to verify the correctness of the methods follows:
