@@ -4,7 +4,7 @@
 The class is designed to perform basic arithmetic operations, including addition, subtraction, multiplication, and division of integers. The division method is specifically designed to throw an exception when dividing by zero to ensure safe usage.
 
 ## Test Cases
-The test cases were conducted to verify the correctness of the methods in the `MathUtils` class as follows:
+The test cases were conducted to verify the correctness of the methods follows:
 
 ### 1. Method `add`
 - Test addition of two positive numbers: `2 + 3 = 5`
